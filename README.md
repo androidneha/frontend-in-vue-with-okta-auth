@@ -19,3 +19,18 @@ npm run build
 ```
 npm run lint
 ```
+
+```
+
+ composer require nelmio/cors-bundle
+ ```
+
+```
+
+npm install vue-router axios --save
+```
+
+```
+
+npm install @okta/okta-vue --save
+```
