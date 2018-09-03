@@ -1,5 +1,3 @@
-# bad-puns-tracker-client
-
 ## Project setup
 ```
 npm install
@@ -22,7 +20,7 @@ npm run lint
 
 ```
 
- composer require nelmio/cors-bundle
+composer require nelmio/cors-bundle
  ```
 
 ```
